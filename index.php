@@ -16,6 +16,5 @@
 ?>
 <html>
 	<head>
-	<meta name="google-site-verification" content="d3JVFNZDRucFeRdO5cDi6zcTlFWtOBbrTVZ4A_uDAjg" />
 	</head>
 	</html>
